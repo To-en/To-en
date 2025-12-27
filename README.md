@@ -24,18 +24,16 @@
 
 ### Languages and Tools: 🗣️⚒️
 - Thai and English of course
-- The rest: <br>
-
+- The rest:<br>
 #### Familiar with
 <a href="https://platformio.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/platformio.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 
-![LTspice](https://img.shields.io/badge/LTSpice-8C1919?style=for-the-badge&logo=LTSpice&logoColor=white)
-![EasyEDA](https://img.shields.io/badge/EasyEDA-4775FF?style=for-the-badge&logo=EasyEDA&logoColor=white)
+[![LTspice](https://img.shields.io/badge/LTSpice-8C1919?style=for-the-badge&logo=LTSpice&logoColor=white)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
+[![EasyEDA](https://img.shields.io/badge/EasyEDA-4775FF?style=for-the-badge&logo=EasyEDA&logoColor=white)](https://easyeda.com/)
 
 
 #### Developing proficiency in
@@ -48,9 +46,9 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
-![ROS2](https://img.shields.io/badge/ROS2-08344D?style=for-the-badge&logo=ROS&logoColor=white)
-![micro-ROS](https://img.shields.io/badge/micro_ROS-08344D?style=for-the-badge&logo=ROS&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-F54927?style=for-the-badge&logo=EasyEDA&logoColor=white)
+[![ROS2](https://img.shields.io/badge/ROS2-08344D?style=for-the-badge&logo=ROS&logoColor=white)](https://docs.ros.org/en/jazzy/index.html)
+[![micro-ROS](https://img.shields.io/badge/micro_ROS-08344D?style=for-the-badge&logo=ROS&logoColor=white)](https://micro.ros.org/)
+[![Matlab](https://img.shields.io/badge/Matlab-F54927?style=for-the-badge&logo=EasyEDA&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
 #### Have Basics in
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
