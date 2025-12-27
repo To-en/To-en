@@ -1,17 +1,11 @@
 ## Hi there👋, I'm Toen
 
-*📝 PKM Enthusiast & Electronics Engineering student ⚡ who try to reawaken his CS, and SWE persona*
+*📝PKM Enthusiast &⚡Electronics Engineering student who try to reawaken his CS, and SWE persona*
   
 - 🚀 **I'm passionate about** Web development, IT infrastructure, and AI mostly on LLMops <br>(I want personal AI slaves for errands)
-- 🔭 **I’m currently working on** Telemetry software team project, see [BlackPearlFSAE](https://github.com/BlackPearlFSAE)
-  - Lower level of the tech stack: 
-    - Vehicle Sensors network (CAN Bus)
-    - PCB Design for sensor node board (ESP32 based)
-    - Embedded software and gateway connection to upper stream.
+- 🔭 **I’m currently working on** [BlackPearlFSAE](https://github.com/BlackPearlFSAE) repo, check it out 
 - 🌱 **I’m currently learning** ROS2 - micro-ROS, React and Nextjs. 
-  - *The current porfolio might not matched the statement, but my interests are real*
 - 💬 **Ask me about** Building PKM and LifeOS workflow <br>Obsidian and Notion, anyone?, I'm basically a geeked at this domain. 
-
 >🎈 **Fun fact**: I'm learning to learn and building system for system, but "just do it" is the way I ended up with.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=To-en&color=blue) 
