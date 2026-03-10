@@ -2,7 +2,7 @@
 
 *📝PKM Enthusiast &⚡Electronics Engineering student who try to reawaken his CS, and SWE persona*
   
-- 🚀 **I'm passionate about** Web development, IT infrastructure, and AI mostly on LLMops <br>(I want personal AI slaves for errands)
+- 🚀 **I'm interested in**  Building IoT Dashboard, IT infrastructure, Homelabbing, AI, Drone <br>
 - 🔭 **I’m currently working on** [BlackPearlFSAE](https://github.com/BlackPearlFSAE) repo, check it out 
 - 🌱 **I’m currently learning** ROS2 - micro-ROS, React and Nextjs. 
 - 💬 **Ask me about** Building PKM and LifeOS workflow <br>Obsidian and Notion, anyone?, I'm basically a geeked at this domain. 
